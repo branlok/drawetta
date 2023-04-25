@@ -8,7 +8,7 @@ package removes all spaces from a string.
 # Installation Instructions
 
 ```
-npm install @bamblehorse/tiny 
+npm install @branlok/drawetta 
 ```
 
 # Usage
