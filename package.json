@@ -1,4 +1,14 @@
 {
-"name": "@branlok/drawetta",
-"version": "1.0.0"
+    "name": "@branlok/drawetta",
+    "version": "1.0.0",
+    "description": "Removes all spaces from string",
+    "license": "MIT",
+    "repository": "branlok/drawetta",
+    "main": "index.js",
+    "keywords": [
+        "drawetta",
+        "npm",
+        "package",
+        "branlok"
+    ]
 }
